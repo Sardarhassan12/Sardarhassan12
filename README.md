@@ -38,20 +38,18 @@ Engineering intelligent systems, scalable APIs, and modern SaaS platforms.
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sardarhassan12&theme=dracula&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
-## 📈 Languages Used 
+## 🏆 Languages Used 
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sardarhassan12&theme=dracula"/>
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sardarhassan12&theme=react-dark&area=true&radius=16" width="100%"/>
 </p>
 
 ---
