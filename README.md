@@ -12,53 +12,45 @@ Engineering intelligent systems, scalable APIs, and modern SaaS platforms.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BD93F9,100:8A2BE2&height=150&section=header&text=Welcome%20to%20My%20GitHub&fontSize=40&fontAlignY=35&animation=fadeIn"/>
 </p>
 
+<!-- About Me Section -->
+<div align="center">
 
-<!-- Personal & Professional Snapshot - Elegant Card Style -->
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
+### 💡 About Me
 
-<!-- Things I Love -->
-<div align="left" style="border-radius: 15px; background: #1E1E2F; padding: 20px; width: 220px; box-shadow: 0 8px 20px rgba(0,0,0,0.3);">
-<h3 align="center">💖 Things I Love</h3>
-<ul>
-<li>AI & Machine Learning</li>
-<li>Building SaaS Platforms</li>
-<li>Open Source Contribution</li>
-<li>Solving Complex Problems</li>
-</ul>
-</div>
+I am **Ali Hassan**, a passionate **Software Engineer** specialized in **AI-powered applications, full-stack development, and scalable SaaS platforms**.  
+I love **solving complex problems**, **building intelligent systems**, and **turning ideas into functional, high-performance software**.  
 
-<!-- Fun Fact -->
-<div align="left" style="border-radius: 15px; background: #1E1E2F; padding: 20px; width: 220px; box-shadow: 0 8px 20px rgba(0,0,0,0.3);">
-<h3 align="center">🎯 Fun Fact</h3>
-<ul>
-<li>Coffee fuels my coding ☕</li>
-<li>Always learning new tech</li>
-<li>Love designing backend architectures</li>
-<li>Fan of algorithm challenges</li>
-</ul>
-</div>
+---
 
-<!-- Expert In -->
-<div align="left" style="border-radius: 15px; background: #1E1E2F; padding: 20px; width: 220px; box-shadow: 0 8px 20px rgba(0,0,0,0.3);">
-<h3 align="center">🛠 Expert In</h3>
-<ul>
-<li>Full Stack Development</li>
-<li>Scalable APIs & Backend Systems</li>
-<li>AI & Automation Projects</li>
-<li>SaaS Platforms & Architecture</li>
-</ul>
-</div>
+### 💖 Things I Love
+- Exploring **Artificial Intelligence & Machine Learning**  
+- Building **SaaS products** and **automation tools**  
+- Contributing to **Open Source**  
+- Tackling **challenging algorithm and system design problems**  
 
-<!-- Curious About -->
-<div align="left" style="border-radius: 15px; background: #1E1E2F; padding: 20px; width: 220px; box-shadow: 0 8px 20px rgba(0,0,0,0.3);">
-<h3 align="center">🔍 Curious About</h3>
-<ul>
-<li>Computer Vision & AI Models</li>
-<li>Cybersecurity & Ethical Hacking</li>
-<li>Edge AI & ML in Production</li>
-<li>Modern Cloud & DevOps Tools</li>
-</ul>
-</div>
+---
+
+### 🎯 Fun Facts
+- ☕ Fueled by coffee and late-night coding sessions  
+- Always learning **modern frameworks, tools, and AI models**  
+- Love **designing backend architectures** and optimizing performance  
+- Avid fan of **algorithm challenges and competitions**  
+
+---
+
+### 🛠 Expertise
+- **Full Stack Development**: Node.js, React, Next.js, Laravel, Django  
+- **Backend & APIs**: Scalable microservices, REST & GraphQL, authentication systems  
+- **AI & Automation**: AI models integration, task automation, ML pipelines  
+- **SaaS Platforms**: Multi-tenant architecture, subscription systems, cloud deployment  
+
+---
+
+### 🔍 Curious About
+- **Computer Vision & AI Models** in real-world applications  
+- **Cybersecurity & Ethical Hacking** best practices  
+- **Edge AI & ML in Production**  
+- Latest **Cloud, DevOps & Serverless technologies**  
 
 </div>
 
