@@ -22,7 +22,7 @@ Engineering intelligent systems, scalable APIs, and modern SaaS platforms.
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Profile Summary
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sardarhassan12&theme=dracula"/>
@@ -48,10 +48,10 @@ Engineering intelligent systems, scalable APIs, and modern SaaS platforms.
 
 ---
 
-## 📈 Activity Graph
+## 📈 Languages Used 
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sardarhassan12&theme=react-dark&area=true&radius=16" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sardarhassan12&theme=dracula"/>
 </p>
 
 ---
