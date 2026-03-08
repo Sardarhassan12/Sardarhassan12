@@ -46,7 +46,7 @@ Engineering intelligent systems, scalable APIs, and modern SaaS platforms.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app?username=Sardarhassan12&theme=dracula&column=7&margin-w=10&margin-h=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Sardarhassan12&theme=dracula&margin-w=15&margin-h=15"/>
 
 </div>
 
