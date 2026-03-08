@@ -36,11 +36,9 @@ Engineering intelligent systems, scalable APIs, and modern SaaS platforms.
 
 ## 🔥 Contribution Streak
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Sardarhassan12&theme=dracula" height="160"/>
-
-</div>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Sardarhassan12&theme=dracula" width="60%"/>
+</p>
 
 ---
 
