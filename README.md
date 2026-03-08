@@ -12,49 +12,53 @@ Engineering intelligent systems, scalable APIs, and modern SaaS platforms.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BD93F9,100:8A2BE2&height=150&section=header&text=Welcome%20to%20My%20GitHub&fontSize=40&fontAlignY=35&animation=fadeIn"/>
 </p>
 
-<!-- Personal & Professional Snapshot -->
-<div align="center">
 
-<table>
-<tr>
-<td align="center" width="220">
+<!-- Personal & Professional Snapshot - Elegant Card Style -->
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
 
-**💖 Things I Love**  
-- AI & Machine Learning  
-- Building SaaS platforms  
-- Open Source Contribution  
-- Solving challenging problems
+<!-- Things I Love -->
+<div align="left" style="border-radius: 15px; background: #1E1E2F; padding: 20px; width: 220px; box-shadow: 0 8px 20px rgba(0,0,0,0.3);">
+<h3 align="center">💖 Things I Love</h3>
+<ul>
+<li>AI & Machine Learning</li>
+<li>Building SaaS Platforms</li>
+<li>Open Source Contribution</li>
+<li>Solving Complex Problems</li>
+</ul>
+</div>
 
-</td>
-<td align="center" width="220">
+<!-- Fun Fact -->
+<div align="left" style="border-radius: 15px; background: #1E1E2F; padding: 20px; width: 220px; box-shadow: 0 8px 20px rgba(0,0,0,0.3);">
+<h3 align="center">🎯 Fun Fact</h3>
+<ul>
+<li>Coffee fuels my coding ☕</li>
+<li>Always learning new tech</li>
+<li>Love designing backend architectures</li>
+<li>Fan of algorithm challenges</li>
+</ul>
+</div>
 
-**🎯 Fun Fact**  
-- Coffee fuels my coding ☕  
-- Always learning new tech  
-- Love designing backend architectures  
-- Fan of algorithm challenges
+<!-- Expert In -->
+<div align="left" style="border-radius: 15px; background: #1E1E2F; padding: 20px; width: 220px; box-shadow: 0 8px 20px rgba(0,0,0,0.3);">
+<h3 align="center">🛠 Expert In</h3>
+<ul>
+<li>Full Stack Development</li>
+<li>Scalable APIs & Backend Systems</li>
+<li>AI & Automation Projects</li>
+<li>SaaS Platforms & Architecture</li>
+</ul>
+</div>
 
-</td>
-<td align="center" width="220">
-
-**🛠 Expert In**  
-- Full Stack Development  
-- Scalable APIs & Backend Systems  
-- AI & Automation Projects  
-- SaaS Platforms & System Architecture
-
-</td>
-<td align="center" width="220">
-
-**🔍 Curious About**  
-- Computer Vision & AI models  
-- Cybersecurity & Ethical Hacking  
-- Edge AI & ML in Production  
-- Modern Cloud & DevOps tools
-
-</td>
-</tr>
-</table>
+<!-- Curious About -->
+<div align="left" style="border-radius: 15px; background: #1E1E2F; padding: 20px; width: 220px; box-shadow: 0 8px 20px rgba(0,0,0,0.3);">
+<h3 align="center">🔍 Curious About</h3>
+<ul>
+<li>Computer Vision & AI Models</li>
+<li>Cybersecurity & Ethical Hacking</li>
+<li>Edge AI & ML in Production</li>
+<li>Modern Cloud & DevOps Tools</li>
+</ul>
+</div>
 
 </div>
 
