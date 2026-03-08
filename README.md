@@ -12,6 +12,52 @@ Engineering intelligent systems, scalable APIs, and modern SaaS platforms.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BD93F9,100:8A2BE2&height=150&section=header&text=Welcome%20to%20My%20GitHub&fontSize=40&fontAlignY=35&animation=fadeIn"/>
 </p>
 
+<!-- Personal & Professional Snapshot -->
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="220">
+
+**💖 Things I Love**  
+- AI & Machine Learning  
+- Building SaaS platforms  
+- Open Source Contribution  
+- Solving challenging problems
+
+</td>
+<td align="center" width="220">
+
+**🎯 Fun Fact**  
+- Coffee fuels my coding ☕  
+- Always learning new tech  
+- Love designing backend architectures  
+- Fan of algorithm challenges
+
+</td>
+<td align="center" width="220">
+
+**🛠 Expert In**  
+- Full Stack Development  
+- Scalable APIs & Backend Systems  
+- AI & Automation Projects  
+- SaaS Platforms & System Architecture
+
+</td>
+<td align="center" width="220">
+
+**🔍 Curious About**  
+- Computer Vision & AI models  
+- Cybersecurity & Ethical Hacking  
+- Edge AI & ML in Production  
+- Modern Cloud & DevOps tools
+
+</td>
+</tr>
+</table>
+
+</div>
+
 ---
 
 ## ⚡ Tech Stack
