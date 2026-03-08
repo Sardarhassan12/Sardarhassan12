@@ -12,7 +12,7 @@ Engineering intelligent systems, scalable APIs, and modern SaaS platforms.
 
 ---
 
-## ⚙️ Tech Stack
+## ⚡ Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,laravel,python,django,mongodb,mysql,redis,docker,git,linux,aws" />
