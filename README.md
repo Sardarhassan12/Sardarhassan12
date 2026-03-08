@@ -11,6 +11,7 @@ Engineering intelligent systems, scalable APIs, and modern SaaS platforms.
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BD93F9,100:8A2BE2&height=150&section=header&text=Welcome%20to%20My%20GitHub&fontSize=40&fontAlignY=35&animation=fadeIn"/>
 </p>
+
 ---
 
 ## ⚡ Tech Stack
@@ -25,9 +26,9 @@ Engineering intelligent systems, scalable APIs, and modern SaaS platforms.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sardarhassan12&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sardarhassan12&show_icons=true&theme=dracula"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sardarhassan12&layout=compact&theme=dracula&langs_count=8"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sardarhassan12&layout=compact&theme=dracula"/>
 
 </div>
 
@@ -65,11 +66,13 @@ Engineering intelligent systems, scalable APIs, and modern SaaS platforms.
 
 ## 👾 Contribution Game
 
+<p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sardarhassan12/Sardarhassan12/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sardarhassan12/Sardarhassan12/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Sardarhassan12/Sardarhassan12/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Sardarhassan12/Sardarhassan12/output/pacman-contribution-graph.svg" width="100%">
 </picture>
+</p>
 
 ---
 
