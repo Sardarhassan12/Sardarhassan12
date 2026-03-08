@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**Sardarhassan12/Sardarhassan12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Ali Hassan</h1>
+<h3 align="center">Full Stack Developer | SaaS Builder | API Specialist</h3>
 
-Here are some ideas to get you started:
+🚀 I build scalable backend systems and SaaS platforms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Passionate about:
+- SaaS Development
+- API Integrations
+- AI Powered Applications
+- Scalable Backend Systems
+
+🌍 Based in Pakistan
