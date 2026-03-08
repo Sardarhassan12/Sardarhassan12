@@ -56,11 +56,9 @@ Engineering intelligent systems, scalable APIs, and modern SaaS platforms.
 
 ## 📈 Activity Graph
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sardarhassan12&theme=react-dark&area=true&radius=16"/>
-
-</div>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sardarhassan12&theme=react-dark&area=true&radius=16" width="100%"/>
+</p>
 
 ---
 
