@@ -40,35 +40,6 @@ I constantly explore new technologies and engineering practices to build **relia
 <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,laravel,python,django,mongodb,mysql,redis,docker,git,linux,aws" />
 </p>
 
-**Languages**
-
-- JavaScript
-- TypeScript
-- Python
-- PHP
-
-**Frameworks**
-
-- Node.js
-- React
-- Next.js
-- Laravel
-- Django
-
-**Databases**
-
-- MongoDB
-- MySQL
-- Redis
-
-**DevOps & Tools**
-
-- Docker
-- Git
-- Linux
-- REST APIs
-- System Architecture
-
 ---
 
 ## 🧩 Engineering Areas
