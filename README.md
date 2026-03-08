@@ -19,9 +19,9 @@ Building scalable software, intelligent systems, and modern SaaS platforms.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sardarhassan12&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="160"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sardarhassan12&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sardarhassan12&layout=compact&langs_count=6&theme=dracula" height="160"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sardarhassan12&layout=compact&theme=dracula&langs_count=8"/>
 
 </div>
 
