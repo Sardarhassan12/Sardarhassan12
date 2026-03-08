@@ -22,9 +22,6 @@ I love **solving complex problems**, **building intelligent systems**, and **tur
 
 ---
 
-<!-- Divider -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:6A5ACD&height=120&section=header"/>
-
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
 
 <!-- Things I Love -->
