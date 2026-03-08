@@ -8,8 +8,9 @@
 Engineering intelligent systems, scalable APIs, and modern SaaS platforms.
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:6A5ACD&height=120&section=header"/>
-
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BD93F9,100:8A2BE2&height=150&section=header&text=Welcome%20to%20My%20GitHub&fontSize=40&fontAlignY=35&animation=fadeIn"/>
+</p>
 ---
 
 ## ⚡ Tech Stack
