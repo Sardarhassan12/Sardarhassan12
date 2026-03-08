@@ -1,10 +1,12 @@
 <h1 align="center">Ali Hassan</h1>
-<h3 align="center">Software Engineer • AI Developer • Full Stack Developer • SaaS Builder</h3>
 
 <p align="center">
-Building scalable software, intelligent systems, and modern SaaS platforms.
+<img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=28&duration=3000&color=BD93F9&center=true&vCenter=true&width=700&lines=Software+Engineer;AI+Developer;Full+Stack+Developer;SaaS+Builder;Building+Scalable+Systems"/>
 </p>
 
+<p align="center">
+Engineering intelligent systems, scalable APIs, and modern SaaS platforms.
+</p>
 ---
 
 ## ⚙️ Tech Stack
