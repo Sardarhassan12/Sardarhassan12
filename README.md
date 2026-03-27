@@ -22,44 +22,6 @@ I love **solving complex problems**, **building intelligent systems**, and **tur
 
 ---
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
-
-<!-- Things I Love -->
-<div style="background: linear-gradient(135deg, #6A5ACD, #8A2BE2); border-radius: 15px; color: #fff; padding: 20px; width: 260px; box-shadow: 0 8px 25px rgba(0,0,0,0.3);">
-<h3 align="center">💖 Things I Love</h3>
-<p align="justify" style="line-height:1.6;">
-I am deeply passionate about <strong>Artificial Intelligence</strong>, <strong>Machine Learning</strong>, building <strong>scalable SaaS platforms</strong>, contributing to <strong>Open Source</strong>, and solving challenging problems that push my skills further.
-</p>
-</div>
-
-<!-- Fun Fact -->
-<div style="background: linear-gradient(135deg, #FF7F50, #FF6347); border-radius: 15px; color: #fff; padding: 20px; width: 260px; box-shadow: 0 8px 25px rgba(0,0,0,0.3);">
-<h3 align="center">🎯 Fun Facts</h3>
-<p align="justify" style="line-height:1.6;">
-☕ Coffee fuels my late-night coding sessions. I am constantly exploring new technologies, love designing elegant backend architectures, and enjoy solving algorithm challenges for fun.
-</p>
-</div>
-
-<!-- Expert In -->
-<div style="background: linear-gradient(135deg, #20B2AA, #3CB371); border-radius: 15px; color: #fff; padding: 20px; width: 260px; box-shadow: 0 8px 25px rgba(0,0,0,0.3);">
-<h3 align="center">🛠 Expert In</h3>
-<p align="justify" style="line-height:1.6;">
-Full Stack Development, scalable backend APIs, AI-powered automation, and building robust SaaS platforms. Experienced in Node.js, React, Laravel, Django, and cloud deployments.
-</p>
-</div>
-
-<!-- Curious About -->
-<div style="background: linear-gradient(135deg, #FFB347, #FFCC33); border-radius: 15px; color: #fff; padding: 20px; width: 260px; box-shadow: 0 8px 25px rgba(0,0,0,0.3);">
-<h3 align="center">🔍 Curious About</h3>
-<p align="justify" style="line-height:1.6;">
-Computer Vision, AI model deployment, Cybersecurity, Ethical Hacking, Edge AI, and cutting-edge Cloud & DevOps technologies. I love experimenting with new tools and learning advanced system architectures.
-</p>
-</div>
-
-</div>
-
----
-
 ## ⚡ Tech Stack
 
 <p align="center">
