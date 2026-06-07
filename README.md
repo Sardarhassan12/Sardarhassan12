@@ -20,7 +20,6 @@ Hey there, I’m Ali. I am a **Software Engineer** dedicated to building resilie
 *   📬 Reach out or view my open-source work right here on [GitHub](https://github.com/Sardarhassan12).
 
 ---
-
 <p align="center">
-  <img src="https://giffiles.alphacoders.com/214/214352.gif" alt="Aerospace Terminal Loop" width="100%" style="border-radius: 8px; max-height: 350px; object-fit: cover;"/>
+  <img src="https://cdn.pixabay.com/animation/2023/04/09/16/09/16-09-17-769_512.gif" alt="Late Night Coding Loop" width="80%" style="border-radius: 8px;"/>
 </p>
