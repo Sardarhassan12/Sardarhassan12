@@ -1,53 +1,26 @@
 <h1 align="center">Ali Hassan</h1>
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=24&duration=3000&color=BD93F9&center=true&vCenter=true&width=700&lines=Laravel+Expert;AI+%26+UAV+Enthusiast;Low-Level+Explorer;Building+Intelligent+Systems"/>
-</p>
+<p align="center"><strong>Backend Engineer & UAV System Explorer</strong></p>
 
-<p align="center">
-  <strong>Engineering robust backends, exploring low-level mechanics, and looking toward the skies.</strong>
-</p>
+### Greetings, Techies! 🌌
 
----
+> "The soul becomes dyed with the color of its thoughts." — Marcus Aurelius
 
-### 🏛️ Grand Strategy
-> "He who has a why to live can bear almost any how." — Friedrich Nietzsche
+Hey there, I’m Ali. I am a **Software Engineer** dedicated to building resilient backends and automated architecture. My primary weapon of choice is **PHP** alongside **Laravel**, but my true passion lies in breaking down **Core Low-Level Tech** and pushing the boundaries of **Artificial Intelligence** in the realm of **Aerospace & UAVs**. When I pull myself away from the compiler, I am usually training **Mixed Martial Arts** 🥋, studying **History & Philosophy**, or getting lost in **Music**.
 
-Greetings! I am **Ali Hassan**. By day, I build high-performance web ecosystems primarily utilizing **Laravel**, **PHP**, and modern stack integrations. By night, my mind drifts toward the intersection of core, low-level software engineering, intelligent systems, and autonomous aerospace hardware. 
-
-Beyond lines of code, I am deeply driven by the grit of **Mixed Martial Arts**, the depth of **History & Philosophy**, and the rhythm of complex **Music**.
+*   **Core Arsenal:** PHP, Laravel, Python, Node.js, SQL
+*   **Dev Ecosystem:** Linux, Docker, AWS, Git & GitHub
 
 ---
 
-### 🛠️ Core Stack & Weapons of Choice
-<p align="left">
-<img src="https://skillicons.dev/icons?i=laravel,php,js,ts,nodejs,python,mysql,redis,docker,aws,linux,git" />
-</p>
+### Current Vectors:
 
-*   **Languages & Frameworks:** PHP (Laravel), Python, JavaScript/TypeScript, Node.js
-*   **Infrastructure & Tools:** Linux, Docker, AWS, Redis, MySQL
-
----
-
-### 🎯 Current Vectors
-*   🤖 **AI & Autonomous Systems:** Integrating intelligent layers into backend systems and exploring embedded logic.
-*   ✈️ **Aerospace & UAVs:** Diving deep into low-level flight controller software, telemetry, and unmanned aerial mechanics.
-*   💻 **Low-Level Passion:** Moving down the stack to understand how hardware and software communicate at the bare-metal level.
-
----
-
-### 📊 Vital Signs
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sardarhassan12&theme=dracula" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sardarhassan12&theme=dracula" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sardarhassan12&theme=dracula" width="100%"/>
-</p>
+*   🛠️ I’m currently architecting high-performance backend pipelines in **Laravel**.
+*   🦅 I’m actively researching **autonomous flight logic** and embedded AI for UAVs.
+*   💬 Drop a line if you want to chat about low-level systems, philosophy, or combat sports.
+*   📬 Reach out or view my open-source work right here on [GitHub](https://github.com/Sardarhassan12).
 
 ---
 
 <p align="center">
-🛸 <i>Building the infrastructure for tomorrow, from codebases to the stratosphere.</i>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sardarhassan12&theme=react-dark&area=true&radius=16" width="100%"/>
 </p>
