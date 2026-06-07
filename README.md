@@ -22,5 +22,5 @@ Hey there, I’m Ali. I am a **Software Engineer** dedicated to building resilie
 ---
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sardarhassan12&theme=react-dark&area=true&radius=16" width="100%"/>
+  <img src="http://googleusercontent.com/image_collection/image_retrieval/5016115550203437016_0" alt="Autonomous Future Flight Tech" width="100%" style="border-radius: 8px;"/>
 </p>
