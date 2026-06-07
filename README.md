@@ -1,81 +1,60 @@
 <h1 align="center">Ali Hassan</h1>
 
 <p align="center">
-  Software Engineer · Backend Builder · Future Security Researcher
+Backend Engineer · AI Systems · Aerospace Technology
 </p>
 
 ---
 
-> "Technology becomes interesting when it solves problems beyond the screen."
+> Curiosity drives the mission.
 
-I'm Ali, a Software Engineer from Pakistan focused on building scalable backend systems and turning ideas into products.
+Building software that sits beyond traditional web applications.
 
-Over the last year I've worked on AI-powered SaaS platforms, ERP systems, cloud infrastructure, and integrations that connect software with real-world business operations.
-
-Currently, my curiosity sits at the intersection of:
-
-- Artificial Intelligence
-- Aerospace Systems & UAV Technologies
-- Cybersecurity & Ethical Hacking
-- Distributed Software Architecture
-
-I enjoy working on problems where software meets reality—whether that's helping property managers automate operations, improving aerial systems, or designing products that can scale beyond a single customer.
+Currently engineering AI-powered SaaS platforms with Laravel while exploring
+autonomous systems, UAV technologies, low-level computing, and cybersecurity.
 
 ---
 
-## What I'm Building
+### Areas of Interest
 
-🚀 AI SaaS Platforms
+⚡ Artificial Intelligence
 
-Building backend systems, APIs, automation pipelines, cloud deployments, and third-party integrations.
+🛩 Aerospace & UAV Systems
 
-🛩 Aerospace & Ground Control Systems
+🔧 Low-Level Engineering
 
-Exploring UAV technologies, RF awareness systems, and software used in mission-critical environments.
+☁️ Scalable SaaS Infrastructure
 
-🔒 Cybersecurity Journey
-
-Learning penetration testing, system security, and offensive security methodologies.
+🔒 Security Research
 
 ---
 
-## Tech Arsenal
+### Current Mission
 
-```text
-Backend      Laravel • PHP • Python • Node.js
-Frontend     React • JavaScript • TypeScript
-Database     MySQL • PostgreSQL
-Cloud        AWS
-DevOps       Docker • Linux • Git
-Other        REST APIs • Multi-Tenant Systems • SaaS Architecture
+Building backend systems for AI products.
+
+Learning how intelligent systems interact with the physical world.
+
+Exploring the intersection of software, aerospace, and security.
+
+---
+
+### Stack
+
+```txt
+Laravel • PHP • Python
+
+MySQL • Docker • Linux
+
+AWS • REST APIs • System Design
 ```
 
 ---
 
-## Currently Exploring
+### Outside the Screen
 
-- AI for operational automation
-- Penetration testing methodologies
-- Scalable SaaS architecture
-- Aerospace software systems
-- Product development & entrepreneurship
+MMA · History · Strategy · Mountains · Music
 
 ---
 
-## Beyond Engineering
-
-When I'm away from the keyboard:
-
-🥋 Martial Arts  
-🏔 Exploring Northern Areas  
-🎬 Action, Adventure & Thriller Films  
-📖 History & Strategy  
-🎵 Music
-
----
-
-### Philosophy
-
-Build useful things.
-Learn difficult things.
-Stay curious.
+<sub>Software is only the beginning.</sub>
