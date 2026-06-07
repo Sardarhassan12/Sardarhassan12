@@ -1,35 +1,81 @@
-<h1>Ali Hassan</h1>
+<h1 align="center">Ali Hassan</h1>
 
-<p><sub>SOFTWARE ENGINEER &nbsp;·&nbsp; BUILDER</sub></p>
-
-> *"Ship real things. Then ship harder things."*
-
----
-
-### Stack
-
-| | |
-|---|---|
-| **Laravel / PHP** | primary — SaaS backends, APIs |
-| **Python** | ML, scripting |
-| **JavaScript / TS** | React, Node |
-| **SQL** | MySQL, multi-tenant architecture |
-| **Docker · Linux** | infra, tooling |
+<p align="center">
+  Software Engineer · Backend Builder · Future Security Researcher
+</p>
 
 ---
 
-### Current Focus
+> "Technology becomes interesting when it solves problems beyond the screen."
 
-**AI × Aerospace** &nbsp;—&nbsp; UAV systems, formal verification, RF situational awareness  
-**SaaS Infrastructure** &nbsp;—&nbsp; Multi-tenant platforms, third-party integrations at scale  
-**Hard Tech** &nbsp;—&nbsp; Problems where software meets physics. Not another CRUD app.
+I'm Ali, a Software Engineer from Pakistan focused on building scalable backend systems and turning ideas into products.
+
+Over the last year I've worked on AI-powered SaaS platforms, ERP systems, cloud infrastructure, and integrations that connect software with real-world business operations.
+
+Currently, my curiosity sits at the intersection of:
+
+- Artificial Intelligence
+- Aerospace Systems & UAV Technologies
+- Cybersecurity & Ethical Hacking
+- Distributed Software Architecture
+
+I enjoy working on problems where software meets reality—whether that's helping property managers automate operations, improving aerial systems, or designing products that can scale beyond a single customer.
 
 ---
 
-### Outside the Terminal
+## What I'm Building
 
-`MMA` &nbsp; `History` &nbsp; `Philosophy` &nbsp; `Music` &nbsp; `Low-level Systems`
+🚀 AI SaaS Platforms
+
+Building backend systems, APIs, automation pipelines, cloud deployments, and third-party integrations.
+
+🛩 Aerospace & Ground Control Systems
+
+Exploring UAV technologies, RF awareness systems, and software used in mission-critical environments.
+
+🔒 Cybersecurity Journey
+
+Learning penetration testing, system security, and offensive security methodologies.
 
 ---
 
-<sub>Open to work on problems that actually matter.</sub>
+## Tech Arsenal
+
+```text
+Backend      Laravel • PHP • Python • Node.js
+Frontend     React • JavaScript • TypeScript
+Database     MySQL • PostgreSQL
+Cloud        AWS
+DevOps       Docker • Linux • Git
+Other        REST APIs • Multi-Tenant Systems • SaaS Architecture
+```
+
+---
+
+## Currently Exploring
+
+- AI for operational automation
+- Penetration testing methodologies
+- Scalable SaaS architecture
+- Aerospace software systems
+- Product development & entrepreneurship
+
+---
+
+## Beyond Engineering
+
+When I'm away from the keyboard:
+
+🥋 Martial Arts  
+🏔 Exploring Northern Areas  
+🎬 Action, Adventure & Thriller Films  
+📖 History & Strategy  
+🎵 Music
+
+---
+
+### Philosophy
+
+Build useful things.
+Learn difficult things.
+Stay curious.
