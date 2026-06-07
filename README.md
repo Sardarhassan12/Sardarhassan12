@@ -22,5 +22,5 @@ Hey there, I’m Ali. I am a **Software Engineer** dedicated to building resilie
 ---
 
 <p align="center">
-  <img src="https://giffiles.alphacoders.com/214/214352.gif" alt="Aerospace Terminal Loop" width="100%" style="border-radius: 8px; max-height: 320px; object-fit: cover;"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sardarhassan12&theme=react-dark&area=true&radius=16" width="100%"/>
 </p>
